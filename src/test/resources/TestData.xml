@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+
+    <!-- COMMON USER -->
+    <parameter>
+        <name>USER_NAME</name>
+        <value>onlinerSMART</value>
+        <type>String</type>
+    </parameter>
+
+    <parameter>
+        <name>USER_PASSWORD</name>
+        <value>onlinerSMART</value>
+        <type>String</type>
+    </parameter>
+
+
+</parameters>
