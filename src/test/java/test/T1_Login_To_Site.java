@@ -13,6 +13,7 @@ public class T1_Login_To_Site extends BaseTest {
         BaseOnlinerForm baseOnlinerForm = new BaseOnlinerForm();
         baseOnlinerForm.lnkLogIn.clickAndWait();
 
+
         logger.logStep(1, "Enter user name");
         LoginForm loginForm = new LoginForm();
         loginForm.txbUserName.type(BaseOnlinerFunctions.USER_NAME);
